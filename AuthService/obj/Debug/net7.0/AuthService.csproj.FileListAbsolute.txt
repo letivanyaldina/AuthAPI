@@ -1,0 +1,11 @@
+/Users/letivanyaldina/Projects/Git_Projects/auth-api/AuthService/bin/Debug/net7.0/AuthService.deps.json
+/Users/letivanyaldina/Projects/Git_Projects/auth-api/AuthService/bin/Debug/net7.0/AuthService.dll
+/Users/letivanyaldina/Projects/Git_Projects/auth-api/AuthService/bin/Debug/net7.0/AuthService.pdb
+/Users/letivanyaldina/Projects/Git_Projects/auth-api/AuthService/obj/Debug/net7.0/AuthService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/letivanyaldina/Projects/Git_Projects/auth-api/AuthService/obj/Debug/net7.0/AuthService.AssemblyInfoInputs.cache
+/Users/letivanyaldina/Projects/Git_Projects/auth-api/AuthService/obj/Debug/net7.0/AuthService.AssemblyInfo.cs
+/Users/letivanyaldina/Projects/Git_Projects/auth-api/AuthService/obj/Debug/net7.0/AuthService.csproj.CoreCompileInputs.cache
+/Users/letivanyaldina/Projects/Git_Projects/auth-api/AuthService/obj/Debug/net7.0/AuthService.dll
+/Users/letivanyaldina/Projects/Git_Projects/auth-api/AuthService/obj/Debug/net7.0/refint/AuthService.dll
+/Users/letivanyaldina/Projects/Git_Projects/auth-api/AuthService/obj/Debug/net7.0/AuthService.pdb
+/Users/letivanyaldina/Projects/Git_Projects/auth-api/AuthService/obj/Debug/net7.0/ref/AuthService.dll
